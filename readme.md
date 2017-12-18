@@ -4,7 +4,7 @@
 >
 > How festive are your diodes
 
-![tree](tree.jpg)
+![tree](media/tree.jpg)
 
 ## Materials
 
